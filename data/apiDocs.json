@@ -1,0 +1,13 @@
+{
+    "/posts":"get all posts",
+    "/signup":"Signup",
+    "/signin":"Signin",
+    "/signout":"Logout user",
+    "/allUsers":"To get all the users",
+    "/singleUser/:userId":"To get the single user  Auth token needed",   
+    "/singleUser/:userId":"Put  to update t  and delete the singel user" ,
+    "/posts/by/:userid":"sse the post by single user",
+    "/post/:postId":"delete/update the post",
+    "/post/new/:userId":"Posting the post"
+
+}
